@@ -63,3 +63,4 @@ int main()
 	int n = knapsack(w, v, 5, W);
 	cout<<"Maximum weight we can have is "<<n<<endl;
 }
+
